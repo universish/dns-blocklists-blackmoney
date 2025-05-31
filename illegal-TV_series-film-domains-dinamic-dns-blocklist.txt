@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Title: universish's DNS Blocklist to protect from pirated content - Dynamic DNS
+! Title: universish's Dynamic DNS Blocklist to protect from pirated content
 ! Description: Dynamic Domains of pirated movie and pirated series streaming sites. Sites with pirated content serve the black market and black money. They promote the black money advertising industry by advertising websites, such as illegal betting, that sustain the black money economy.
 ! Homepage: https://github.com/universish/dns-blocklists-blackmoney
 ! License: https://github.com/universish/dns-blocklists-blackmoney/blob/main/LICENSE
