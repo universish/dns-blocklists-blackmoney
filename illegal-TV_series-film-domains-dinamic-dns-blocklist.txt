@@ -538,7 +538,6 @@
 ||*.cizgifilmizle.info^
 ||*.cizgifilm.tv^
 ||*.cineb.rs^
-||cdn82.sobreatsesuyp.com^
 ||*.canlitv.direct^
 ||*.canlidiziizle.org^
 ||*.canlidizi9.net^
@@ -604,7 +603,6 @@
 ||*.anim3.net^
 ||*.anilibria.tv^
 ||*.anidizi.com^
-||amd-cdn-1.ffb7df5a878b59e42e257c042f54bed2.com^
 ||*.afilmizle2.com^
 ||*.acunmedyaakademi.com^
 ||*.acunilicali.com.tr^
@@ -612,7 +610,6 @@
 ||*.4kfilmizlesene.nl^
 ||*.1xlite*^
 ||*.1xlite-4068500.top^
-||*.1xbet*^
 ||*.123series.art^
 ||*.yabancidizi*^
 ||*.web*.tv^
