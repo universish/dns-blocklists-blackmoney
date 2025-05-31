@@ -5,8 +5,8 @@
 ! License: https://github.com/universish/dns-blocklists-blackmoney/blob/main/LICENSE
 ! Issues: https://github.com/universish/dns-blocklists-blackmoney/issues
 ! Expires: 1 day
-! Last modified: 31 May 2025 16:30 UTC
-! Version: 2025.0531.002.01
+! Last modified: 31 May 2025 17:20 UTC
+! Version: 2025.0531.0021.01
 ! Syntax: AdBlock
 ! Number of entries: 5
 ! Note: Add all illegal betting sites you know, fake betting sites, fraudulent illegal betting sites, illegal betting advertising sites, illegal betting advertising sources, illegal betting advertising videos sites.
