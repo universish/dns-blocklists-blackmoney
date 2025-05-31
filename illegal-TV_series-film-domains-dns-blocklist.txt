@@ -11,6 +11,27 @@
 ! Number of entries: 621
 !
 ||zurnafilm.biz^
+||royalfilmizle.com^
+||goodfullfilmizle.com^
+||filmizlesitesi.com^
+||filmizlego.com^
+||hdfilmizle.co^
+||turkcefilmizle.org^
+||sinefy*.com^
+||sinefy3.*^
+||filmizlehdizle.com^
+||ultrafilmizle.net^
+||filmizle.movie^
+||ww16.hdfilmizle.in^
+||yerfilmizlet.com^
+||burcufilm.com^
+||filmseyret.net^
+||altyazilifilms2.com^
+||hdkalitefilms.biz^
+||filmcehennemi.info^
+||filmizle8d.com^
+||dizisinemacast.com^
+||eniyierotikfilmler1.com^
 ||yeppoo.com^
 ||yeniwatch.net.tr^
 ||ybndizi.com^
@@ -66,7 +87,6 @@
 ||tv8bucuk.com^
 ||tv8.com.tr^
 ||tv.canlitv.vip^
-||*.canlitv.vip^
 ||turksub24.top^
 ||turkishseries.site^
 ||turkishminute.com^
