@@ -122,7 +122,6 @@
 ||*.tranimaci.com^
 ||*.tr724.com^
 ||*.tr.anidub.com^
-||torrentio.strem.fun^
 ||*.topchineseanime.in^
 ||*.teknobu.net^
 ||*.tekfullfilmizle5.com^
@@ -147,7 +146,6 @@
 ||*.sezonlukdizi*.com^
 ||*.setfilmizle.nl^
 ||*.serial4u.ne^
-||semihv23.github.io^
 ||*.selcukflix.com^
 ||*.seicode.net^
 ||*.roketdizi.nl^
@@ -284,11 +282,6 @@
 ||*.guzelfilm.net^
 ||*.grifilmizle.org^
 ||*.gomovies.ms^
-||github.com/semihV23^
-||github.com/dizipaltv^
-||github.com/dizipalapk^
-||github.com/ahmetalperx/dizipal^
-||gist.github.com/yasinkuyu/87d6302e9ec912e4fa212089c1a13888^
 ||*.fullhdizle.one^
 ||*.fullhdfilm*^
 ||*.fullhdfilm*.*^
@@ -434,7 +427,6 @@
 ||*.diziparis.com^
 ||*.dizipalx35.com^
 ||*.dizipaltv.live^
-||dizipaltv.github.io^
 ||*.dizipalizle.eu^
 ||*.dizipalfilmizle.nl^
 ||*.dizipal992.com^
