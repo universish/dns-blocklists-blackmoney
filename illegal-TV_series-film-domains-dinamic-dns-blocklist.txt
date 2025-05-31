@@ -5,12 +5,33 @@
 ! License: https://github.com/universish/dns-blocklists-blackmoney/blob/main/LICENSE
 ! Issues: https://github.com/universish/dns-blocklists-blackmoney/issues
 ! Expires: 1 day
-! Last modified: 31 May 2025 16:30 UTC
+! Last modified: 31 May 2025 17:30 UTC
 ! Version: 2025.0531.0011.02
 ! Syntax: AdBlock
-! Number of entries: 632
+! Number of entries: 642
 !
 ||*.zurnafilm.biz^
+||*.royalfilmizle.com^
+||*.goodfullfilmizle.com^
+||*.filmizlesitesi.com^
+||*.filmizlego.com^
+||*.hdfilmizle.co^
+||*.turkcefilmizle.org^
+||*.sinefy*.com^
+||*.sinefy3.*^
+||*.filmizlehdizle.com^
+||*.ultrafilmizle.net^
+||*.filmizle.movie^
+||*.hdfilmizle.in^
+||*.yerfilmizlet.com^
+||*.burcufilm.com^
+||*.filmseyret.net^
+||*.altyazilifilms2.com^
+||*.hdkalitefilms.biz^
+||*.filmcehennemi.info^
+||*.filmizle8d.com^
+||*.dizisinemacast.com^
+||*.eniyierotikfilmler1.com^
 ||*.yeppoo.com^
 ||*.yeniwatch.net.tr^
 ||*.ybndizi.com^
