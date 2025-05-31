@@ -5,7 +5,7 @@
 ! License: https://github.com/universish/dns-blocklists-blackmoney/blob/main/LICENSE
 ! Issues: https://github.com/universish/dns-blocklists-blackmoney/issues
 ! Expires: 1 day
-! Last modified: 31 May 2025 16:30 UTC
+! Last modified: 31 May 2025 17:20 UTC
 ! Version: 2025.0531.0022.01
 ! Syntax: AdBlock
 ! Number of entries: 5
