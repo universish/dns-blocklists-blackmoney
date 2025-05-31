@@ -1,0 +1,18 @@
+[Adblock Plus]
+! Title: universish's DNS Blocklist to protect from illegal and fraudulent betting (blackbet) sites and bet ad sites
+! Description: Domains of protect from illegal and fraudulent betting (blackbet) sites and bet ad sites. Sites with pirated content serve the black market and black money. They promote the black money advertising industry by advertising websites, such as illegal betting, that sustain the black money economy.
+! Homepage: https://github.com/universish/dns-blocklists-blackmoney
+! License: https://github.com/universish/dns-blocklists-blackmoney/blob/main/LICENSE
+! Issues: https://github.com/universish/dns-blocklists-blackmoney/issues
+! Expires: 1 day
+! Last modified: 31 May 2025 16:30 UTC
+! Version: 2025.0531.0022.01
+! Syntax: AdBlock
+! Number of entries: 5
+! Note: Add all illegal betting sites you know, fake betting sites, fraudulent illegal betting sites, illegal betting advertising sites, illegal betting advertising sources, illegal betting advertising videos sites.
+!
+||cdn82.sobreatsesuyp.com^
+||amd-cdn-1.ffb7df5a878b59e42e257c042f54bed2.com^
+||1xlite*^
+||1xlite-4068500.top^
+||1xbet*^
