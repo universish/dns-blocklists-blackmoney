@@ -8,7 +8,7 @@
 ! Last modified: 31 May 2025 16:30 UTC
 ! Version: 2025.0531.02
 ! Syntax: AdBlock
-! Number of entries: 621
+! Number of entries: 629
 !
 ||zurnafilm.biz^
 ||royalfilmizle.com^
