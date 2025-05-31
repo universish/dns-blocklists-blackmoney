@@ -11,18 +11,6 @@
 ! Number of entries: 632
 !
 ||*.zurnafilm.biz^
-||youtube.com/trtbelgesel^
-||youtube.com/trtarabi^
-||youtube.com/trt1^
-||youtube.com/@trtspor^
-||youtube.com/@trthaber^
-||youtube.com/@trtdrama_ar^
-||youtube.com/@trtbelgesel^
-||youtube.com/@TRTArabi^
-||youtube.com/@trt1^
-||youtube.com/@TeskilatTRT^
-||youtube.com/@atvturkiye^
-||youtube.com/@ASpor^
 ||*.yeppoo.com^
 ||*.yeniwatch.net.tr^
 ||*.ybndizi.com^
