@@ -5,10 +5,10 @@
 ! License: https://github.com/universish/dns-blocklists-blackmoney/blob/main/LICENSE
 ! Issues: https://github.com/universish/dns-blocklists-blackmoney/issues
 ! Expires: 1 day
-! Last modified: 31 May 2025 16:30 UTC
-! Version: 2025.0531.0012.02
+! Last modified: 31 May 2025 15:50 UTC
+! Version: 2025.0601.0012.001
 ! Syntax: AdBlock
-! Number of entries: 629
+! Number of entries: 592
 !
 ||zurnafilm.biz^
 ||royalfilmizle.com^
@@ -17,8 +17,7 @@
 ||filmizlego.com^
 ||hdfilmizle.co^
 ||turkcefilmizle.org^
-||sinefy*.com^
-||sinefy3.*^
+||sinefy3.com^
 ||filmizlehdizle.com^
 ||ultrafilmizle.net^
 ||filmizle.movie^
@@ -44,8 +43,6 @@
 ||yabancidiziizle.in^
 ||yabancidizigo.com^
 ||yabancidizi2.com^
-||yabancidizi*^
-||yabancidizi*.*^
 ||yabancidizi.tv^
 ||yabancidizi.one^
 ||yabancidizi.net.tr^
@@ -56,7 +53,6 @@
 ||yabancidizi.club^
 ||yabancidizi.biz^
 ||x3.jetfilm.online^
-||x3.jetfilm*.*^
 ||wyxfilm1.cc^
 ||www3.baslamaindirim.co^
 ||www2.turkish123.org^
@@ -180,8 +176,6 @@
 ||jetfilmtfsbs61.kinoza.link^
 ||jetfilmizle8.org^
 ||jetfilmizle*.org^
-||jetfilmizle*.*^
-||jetfilm*.*^
 ||jetfilmizle.watch^
 ||jetfilmizle.tr^
 ||jetfilmizle.cam^
@@ -199,7 +193,6 @@
 ||hintfilmizlesene.com^
 ||hintfilmizle.vip^
 ||hintfilmizle.co^
-||hintfilmizle*.*^
 ||hintdizi.com^
 ||hintasya.ru^
 ||hianimez.to^
@@ -217,8 +210,7 @@
 ||hdfilmizlesene.cc^
 ||hdfilmizleamk.net^
 ||hdfilmizle7.com^
-||hdfilmizle.*^
-||hdfilmizle*.*^
+||hdfilmizle*.com^
 ||hdfilmizle^
 ||hdfilmizle.to^
 ||hdfilmizle.sbs^
@@ -228,7 +220,6 @@
 ||hdfilmizle.fit^
 ||hdfilmcennetim.wordpress.com^
 ||hdfilmcenneti.xyz^
-||hdfilmcennet*^
 ||hdfilmcehennemix.com^
 ||hdfilmcehenneminl.com^
 ||hdfilmcehennemini.net^
@@ -242,9 +233,6 @@
 ||hdfilmcehennemi15.com^
 ||hdfilmcehennemi1.us^
 ||hdfilmcehennemi02.com^
-||hdfilmcehennemi*^
-||hdfilmcehennem*^
-||hdfilmcehennemi.*^
 ||hdfilmcehennemi*.site^
 ||hdfilmcehennemi*.org^
 ||hdfilmcehennemi*.com^
@@ -264,13 +252,9 @@
 ||hdfilmcehennemi.gen.tr^
 ||hdfilmcehennemi.de^
 ||hdfilmcehennemi.city^
-||hdfilmcehennem*^
 ||hdfilmcehennem.site^
 ||hdfilmcanavari.org^
 ||hdfilm.cx^
-||hdfilm.*^
-||hdfilm*.*^
-||hdfilm*^
 ||hdf5im.lordfilm1.pics^
 ||hddizimax.com^
 ||guzelfilm.net^
@@ -282,8 +266,6 @@
 ||github.com/ahmetalperx/dizipal^
 ||gist.github.com/yasinkuyu/87d6302e9ec912e4fa212089c1a13888^
 ||fullhdizle.one^
-||fullhdfilm*^
-||fullhdfilm*.*^
 ||fullhdfilmizlet1.com^
 ||fullhdfilmizlesenebox.net^
 ||fullhdfilmizlesene.us^
@@ -322,7 +304,6 @@
 ||filmmoduizle.com^
 ||filmmoduhd.org^
 ||filmmodu6.org^
-||filmmodu*.*^
 ||filmmodu.rip^
 ||filmmodu.nl^
 ||filmmodu.net.tr^
@@ -332,15 +313,12 @@
 ||filmmakinesi2.shop^
 ||filmmakinesi15.sbs^
 ||filmmakinesi1.shop^
-||filmmakinesi*^
 ||filmmakinesi*.shop^
 ||filmmakinesi*.sbs^
 ||filmmakinesi*.cfd^
-||filmmakinesi*.*^
 ||filmmakinesi.digital^
 ||filmmakinesi.de^
 ||filmmakinesi.cloud^
-||filmmakinesi.*^
 ||filmlobisi.com^
 ||filmkovasi.pw^
 ||filmkovasi.co^
@@ -350,10 +328,6 @@
 ||filmizlet.com^
 ||filmizleson.com^
 ||filmizlesene.top^
-||filmizlesene.*^
-||filmizle*.*^
-||filmizle.*^
-||filmizle*^
 ||filmizlesene.pro^
 ||filmizlesene.plus^
 ||filmizlesene.info^
@@ -388,11 +362,9 @@
 ||diziyou*.com^
 ||diziyou.info^
 ||diziyo.de^
-||diziyo*.*^
 ||diziway.com^
 ||diziwatch1.net^
 ||diziwatch.tv^
-||diziwatch.*^
 ||diziwatch.tv.tr^
 ||diziwatch.su^
 ||diziwatch.pro^
@@ -444,7 +416,6 @@
 ||dizipal1027.com^
 ||dizipal1.plus^
 ||dizipal1.com^
-||dizipal*^
 ||dizipal.online^
 ||dizipal.onlin^
 ||dizipal.live^
@@ -471,7 +442,6 @@
 ||dizimax2.com^
 ||dizimax*.com^
 ||dizimatik.net^
-||dizi*.*^
 ||dizimat.top^
 ||dizimag.net^
 ||dizimag.info^
@@ -610,23 +580,19 @@
 ||acunilicali.com.tr^
 ||7dizipal.com^
 ||4kfilmizlesene.nl^
-||1xlite*^
+||1xlite*.top^
 ||1xlite-4068500.top^
-||1xbet*^
+||1xbet*.com^
 ||123series.art^
-||yabancidizi*^
 ||web*.tv^
 ||softonic.com^
 ||softonic.com.tr^
 ||hdfilmcenneti.info^
-||hdfilmcennet*^
 ||hdfilmcehennemix.com^
 ||hdfilmcehennemi4.pw^
 ||hdfilmcehennemi2.ws^
 ||hdfilmcehennemi2.site^
 ||hdfilmcehennemi1.us^
-||hdfilmcehennemi*^
-||hdfilmcehennemi*.*^
 ||hdfilmcehennemi.world^
 ||hdfilmcehennemi.vip^
 ||hdfilmcehennemi.nl^
@@ -634,8 +600,5 @@
 ||hdfilmcehennemi.in^
 ||hdfilmcehennemi.gen.tr^
 ||hdfilmcehennemi.de^
-||hdfilmcehennem*^
 ||dizipal953.com^
-||dizipal*^
 ||dizifin.com^
-||canlitv*^
