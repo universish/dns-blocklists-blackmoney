@@ -18,7 +18,7 @@
 ||*dizipal*^
 ||*jetfilm*^
 ||123series*^
-||1xlite-4068500*^
+! ||1xlite-4068500*^
 ||1xlite*^
 ||4kfilmizlesene*^
 ||7dizipal*^
@@ -34,8 +34,8 @@
 ||animedxd*^
 ||animeelysium*^
 ||animeizle*^
-||animeizlemeplatformu*^
-||animeizlesene*^
+! ||animeizlemeplatformu*^
+! ||animeizlesene*^
 ||animekai*^
 ||animekalesi*^
 ||animeler*^
@@ -59,13 +59,14 @@
 ||asyaanimeleri*^
 ||asyabox*^
 ||asyadizi*^
-||asyadiziizle*^
-||asyadizileri*^
-||asyadizileriizle*^
-||asyadizilerim*^
+! ||asyadiziizle*^
+! ||asyadizileri*^
+! ||asyadizileriizle*^
+! ||asyadizilerim*^
 ||asyafanatikleri*^
-||asyafanatiklerim*^
-||asyafilmizlesene*^
+! ||asyafanatiklerim*^
+||asyafilm*^
+! ||asyafilmizlesene*^
 ||asyaking*^
 ||asyalog*^
 ||asyamax*^
@@ -76,7 +77,7 @@
 ||atvturkish*^
 ||azbakizle*^
 ||babafilmizle*^
-||babafilmizlet*^
+! ||babafilmizlet*^
 ||baslamaindirim*^
 ||bayanur*^
 ||bayfilmizle*^
@@ -87,99 +88,125 @@
 ||burcufilm*^
 ||buzfilmizle*^
 ||canlidizi*^
-||canlidiziizle*^
+! ||canlidiziizle*^
 ||canlitv*^
 ||cineb*^
 ||cizgifilm*^
-||cizgifilmizle*^
+! ||cizgifilmizle*^
 ||cizgimax*^
 ||cizgiportal*^
 ||cizgivedizi*^
 ||click-v4.exmnclk*^
+||click-v*^
 ||ddizi*^
 ||dfilmizle*^
 ||direkfilmizle*^
 ||direkizlesene*^
-||dizi.*^
-||dizi*.*^
-||diziall*^
-||diziart*^
-||diziasya*^
-||dizibay*^
-||diziberlin*^
-||dizibes*^
-||dizibox*^
-||diziboxx*^
-||dizican*^
-||dizicim*^
-||diziday*^
-||dizido*^
-||dizifast*^
-||dizifin*^
-||dizifix*^
-||diziflix*^
-||dizifon*^
-||dizifun*^
-||dizigo*^
-||dizigom*^
-||dizigomtv*^
-||dizihit*^
-||dizihome*^
-||dizihot*^
-||diziizle*^
-||diziizlep*^
-||diziizlepal*^
-||dizikorea*^
-||dizikral*^
-||dizilah*^
-||dizilla-yabanci-dizi-takip.en.*^
-||dizilla-yabanci-dizi-takip.softonic*^
-||dizilla*^
-||dizimag*^
-||dizimat*^
-||dizimatik*^
-||dizimax*^
-||dizimay*^
-||dizimia*^
-||dizimizi*^
-||dizimodu*^
-||dizimom*^
-||dizimom*indices*^
-||dizimom*rate*^
-||dizimom*scorechecker*^
-||dizimore*^
-||dizimov*^
-||dizipal-stremio-addon.mycodelab*^
-||dizipal*^
-||dizipalfilmizle*^
-||dizipalizle*^
-||dizipaltv*^
-||dizipalx*^
-||diziparis*^
-||dizipia*^
-||diziplus*^
-||dizipod*^
-||dizipool*^
-||dizipub*^
-||dizirex*^
-||dizirix*^
-||diziroll*^
-||diziroma*^
-||dizisec*^
-||dizisinemacast*^
-||dizist*^
-||dizisup*^
-||dizitea*^
-||dizitek*^
-||dizitime*^
-||dizitip*^
-||diziturka*^
-||dizivar*^
-||diziwatch*^
-||diziway*^
-||diziyo*^
-||diziyou*^
-||dizizone*^
+||dizia^
+! ||diziall*^
+! ||diziart*^
+! ||diziasya*^
+||dizib*^
+! ||dizibay*^
+! ||diziberlin*^
+! ||dizibes*^
+! ||dizibox*^
+! ||diziboxx*^
+||dizic*^
+! ||dizican*^
+! ||dizicim*^
+||dizid*^
+! ||diziday*^
+! ||dizido*^
+||dizie*^
+||dizif*^
+! ||dizifast*^
+! ||dizifin*^
+! ||dizifix*^
+! ||diziflix*^
+! ||dizifon*^
+! ||dizifun*^
+||dizig*^
+! ||dizigo*^
+! ||dizigom*^
+! ||dizigomtv*^
+||dizih*^
+! ||dizihit*^
+! ||dizihome*^
+! ||dizihot*^
+||dizii*^
+! ||diziizle*^
+! ||diziizlep*^
+! ||diziizlepal*^
+||dizij*^
+||dizik*^
+! ||dizikorea*^
+! ||dizikral*^
+||dizil*^
+! ||dizilah*^
+! ||dizilla-yabanci-dizi-takip.en.*^
+! ||dizilla-yabanci-dizi-takip.softonic*^
+! ||dizilla*^
+||dizim*^
+! ||dizimag*^
+! ||dizimat*^
+! ||dizimatik*^
+! ||dizimax*^
+! ||dizimay*^
+! ||dizimia*^
+! ||dizimizi*^
+! ||dizimodu*^
+! ||dizimom*^
+! ||dizimom*indices*^
+! ||dizimom*rate*^
+! ||dizimom*scorechecker*^
+! ||dizimore*^
+! ||dizimov*^
+||dizin*^
+||dizio*^
+||dizip*^
+! ||dizipal-stremio-addon.mycodelab*^
+! ||dizipal*^
+! ||dizipalfilmizle*^
+! ||dizipalizle*^
+! ||dizipaltv*^
+! ||dizipalx*^
+! ||dizipar*^
+! ||diziparis*^
+! ||dizipia*^
+! ||diziplus*^
+! ||dizipod*^
+! ||dizipool*^
+! ||dizipub*^
+||diziq*^
+||dizir*^
+! ||dizirex*^
+! ||dizirix*^
+! ||diziroll*^
+! ||diziroma*^
+||dizis^
+! ||dizisec*^
+! ||dizisinemacast*^
+! ||dizist*^
+! ||dizisup*^
+||dizit*^
+! ||dizitea*^
+! ||dizitek*^
+! ||dizitime*^
+! ||dizitip*^
+! ||diziturka*^
+||diziu*^
+||diziv*^
+! ||dizivar*^
+||diziw*^
+! ||diziwatch*^
+! ||diziway*^
+||dizix*^
+||diziy*^
+! ||diziyo*^
+! ||diziyou*^
+||diziz*^
+! ||dizizone*^
 ||easyizle*^
 ||eniyierotikfilmler*^
 ||epikfilmizle*^
@@ -197,52 +224,54 @@
 ||filmhe*^
 ||filminifullhdizle*^
 ||filmizle*^
-||filmizle8d*^
-||filmizlego*^
-||filmizlehd*^
-||filmizlehdizle*^
-||filmizlehub*^
-||filmizleilk*^
-||filmizlemobil*^
-||filmizleplus*^
-||filmizlesene*^
-||filmizlesitesi*^
-||filmizleson*^
-||filmizlet*^
-||filmizlets*^
-||filmizletv*^
+! ||filmizle8d*^
+! ||filmizlego*^
+! ||filmizlehd*^
+! ||filmizlehdizle*^
+! ||filmizlehub*^
+! ||filmizleilk*^
+! ||filmizlemobil*^
+! ||filmizleplus*^
+! ||filmizlesene*^
+! ||filmizlesitesi*^
+! ||filmizleson*^
+! ||filmizlet*^
+! ||filmizlets*^
+! ||filmizletv*^
 ||filmkahvesi*^
 ||filmkovasi*^
 ||filmlobisi*^
 ||filmmakinesi*^
 ||filmmax*^
 ||filmmodu*^
-||filmmoduhd*^
-||filmmoduizle*^
+! ||filmmoduhd*^
+! ||filmmoduizle*^
 ||filmmoly*^
 ||filmsever*^
 ||filmseyret*^
-||filmseyretizlet*^
+! ||filmseyretizlet*^
 ||filmvitrini*^
 ||filmzal*^
 ||filmzevkim*^
 ||freemovieswatch*^
 ||fulfilmizlesene*^
 ||fullfilmcehennemi*^
-||fullfilmhdizleme*^
-||fullfilmizlesene*^
-||fullfilmizletr*^
+||fullfilmhdizle*^
+! ||fullfilmhdizleme*^
+||fullfilmizle*^
+! ||fullfilmizlesene*^
+! ||fullfilmizletr*^
 ||fullhdcizgifilmizle*^
 ||fullhddizifilmcehennemi*^
 ||fullhddizifilmizle*^
 ||fullhdfilm*^
 ||fullhdfilmcehennemi*^
 ||fullhdfilmizle*^
-||fullhdfilmizlede*^
-||fullhdfilmizlesem*^
-||fullhdfilmizlesene*^
-||fullhdfilmizlesenebox*^
-||fullhdfilmizlet*^
+! ||fullhdfilmizlede*^
+! ||fullhdfilmizlesem*^
+! ||fullhdfilmizlesene*^
+! ||fullhdfilmizlesenebox*^
+! ||fullhdfilmizlet*^
 ||fullhdizle*^
 ||gomovies*^
 ||goodfullfilmizle*^
@@ -251,18 +280,18 @@
 ||hddizimax*^
 ||hdf5im.lordfilm*^
 ||hdfilm*^
-||hdfilmcanavari*^
-||hdfilmcehennem*^
-||hdfilmcehennemi*^
-||hdfilmcennet*^
-||hdfilmcenneti*^
-||hdfilmcennetim*^
-||hdfilmizle*^
-||hdfilmizleamk*^
-||hdfilmizlesene*^
-||hdfilmmodu*^
-||hdfilmseyretdur*^
-||hdfilmsitesi*^
+! ||hdfilmcanavari*^
+! ||hdfilmcehennem*^
+! ||hdfilmcehennemi*^
+! ||hdfilmcennet*^
+! ||hdfilmcenneti*^
+! ||hdfilmcennetim*^
+! ||hdfilmizle*^
+! ||hdfilmizleamk*^
+! ||hdfilmizlesene*^
+! ||hdfilmmodu*^
+! ||hdfilmseyretdur*^
+! ||hdfilmsitesi*^
 ||hdfullfilmizledayim*^
 ||hdkalitefilms*^
 ||hdmixfilim*^
@@ -273,7 +302,7 @@
 ||hintasya*^
 ||hintdizi*^
 ||hintfilmizle*^
-||hintfilmizlesene*^
+! ||hintfilmizlesene*^
 ||inatdiziboxtv*^
 ||izle7*^
 ||izlekolik*^
@@ -283,9 +312,9 @@
 ||jet-film*^
 ||jetdizi*^
 ||jetfilm*^
-||jetfilmgo*^
-||jetfilmizle*^
-||jetfilmtfsbs61*^
+! ||jetfilmgo*^
+! ||jetfilmizle*^
+! ||jetfilmtfsbs61*^
 ||jetwatch*^
 ||jokerfilmizle*^
 ||justwatch*^
@@ -297,9 +326,9 @@
 ||kissasian*^
 ||koreanturk*^
 ||koredizi*^
-||korediziizletr*^
-||koredizileri*^
-||koredizileriizle*^
+! ||korediziizletr*^
+! ||koredizileri*^
+! ||koredizileriizle*^
 ||kultfilmler*^
 ||leftie*^
 ||limonfilmizle*^
@@ -332,13 +361,13 @@
 ||sinefilmizlesen*^
 ||sinefy*^
 ||sinema.*^
-||sinemadelisi*^
-||sinemafilmizle*^
-||sinematvaz*^
+! ||sinemadelisi*^
+! ||sinemafilmizle*^
+! ||sinematvaz*^
 ||sinemo*^
 ||sinezy*^
 ||siyahfilm*^
-||siyahfilmizle*^
+! ||siyahfilmizle*^
 ||softonic*^
 ||superfilmgeldi*^
 ||tabii*^
@@ -356,15 +385,15 @@
 ||trt*^
 ||trtcocuk*^
 ||turkanime*^
-||turkanimeizle*^
+! ||turkanimeizle*^
 ||turkcefilmizle*^
 ||turkish*^
-||turkish1*^
-||turkish123*^
-||turkish4u*^
-||turkishdrama*^
-||turkishminute*^
-||turkishseries*^
+! ||turkish1*^
+! ||turkish123*^
+! ||turkish4u*^
+! ||turkishdrama*^
+! ||turkishminute*^
+! ||turkishseries*^
 ||turksub24*^
 ||tv.canlitv*^
 ||tv8*^
@@ -382,23 +411,23 @@
 ||vk.*^
 ||w140.zona*^
 ||watchturks*^
-||web*^
+||web.*^
 ||webdramaturkey*^
 ||webteizle*^
 ||wetv*^
 ||wfilmizle*^
-||wikipedia*-tr.nina*^
+! ||wikipedia*-tr.nina*^
 ||wikipedia*-tr*^
 ||wmaraci*^
 ||wyxfilm*^
 ||x3.jetfilm*^
 ||yabancidizi*^
-||yabancidizigo*^
-||yabancidiziizle*^
-||yabancidiziizlesene*^
-||yabancidizilerizle*^
-||yabancidizim*^
-||yabancidizitv*^
+! ||yabancidizigo*^
+! ||yabancidiziizle*^
+! ||yabancidiziizlesene*^
+! ||yabancidizilerizle*^
+! ||yabancidizim*^
+! ||yabancidizitv*^
 ||ybndizi*^
 ||yeniwatch*^
 ||yeppoo*^
