@@ -10,7 +10,7 @@
 ! Syntax: AdBlock
 ! Number of entries: 642
 !
-||*.zurnafilm.biz^
+||zurnafilm*^
 ||*.royalfilmizle.com^
 ||*.goodfullfilmizle.com^
 ||*.filmizlesitesi.com^
