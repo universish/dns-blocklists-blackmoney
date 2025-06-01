@@ -6,7 +6,7 @@
 ! Issues: https://github.com/universish/dns-blocklists-blackmoney/issues
 ! Expires: 1 day
 ! Last modified: 01 Haz 2025 15:10 UTC
-! Version: 2025.0531.0011.001
+! Version: 2025.0601.0011.001
 ! Syntax: AdBlock
 ! Number of entries: 394
 !
